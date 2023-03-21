@@ -1,3 +1,3 @@
 # Hello-World-Github
-This is Hello-World-Github
-I add this line at a "feature" branch.
+Hello, I am Wong Yu Chi
+My student number is 1155150017.
